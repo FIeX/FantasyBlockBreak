@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "FantasyBlockBreak.data.unityweb",
+"asmCodeUrl": "FantasyBlockBreak.asm.code.unityweb",
+"asmMemoryUrl": "FantasyBlockBreak.asm.memory.unityweb",
+"asmFrameworkUrl": "FantasyBlockBreak.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
